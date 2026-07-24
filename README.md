@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio repository! This site serves as an interactive showcase of my software engineering projects, data structures & algorithms experiments, and computer science coursework at UW-Madison.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-mahikamahapatra101.github.io-2ea44f?style=for-the-badge&logo=githubpages)](https://mahikamahapatra101.github.io/Digital-Portfolio-v2/)
-[![Stack](https://img.shields.io/badge/Tech_Stack-HTML%20%7C%20CSS%20%7C%20JS-58a6ff?style=for-the-badge)](#built-with)
-
 ---
 
 ## Live Demo
