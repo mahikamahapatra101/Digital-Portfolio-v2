@@ -1,20 +1,52 @@
-# Personal Portfolio Website
+# Personal Portfolio Website v2
 
-Welcome to my personal portfolio codebase! This site serves as a living showcase of my web development projects, computer science experiments, and technical growth over time!
+Welcome to my personal portfolio repository! This site serves as an interactive showcase of my software engineering projects, data structures & algorithms experiments, and computer science coursework at UW-Madison.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-mahikamahapatra101.github.io-2ea44f?style=for-the-badge&logo=githubpages)](https://mahikamahapatra101.github.io/Digital-Portfolio-v2/)
+[![Stack](https://img.shields.io/badge/Tech_Stack-HTML%20%7C%20CSS%20%7C%20JS-58a6ff?style=for-the-badge)](#built-with)
+
+---
 
 ## Live Demo
-Check out the live site here: [mahikamahapatra101.github.io/Digital-Portfolio-v2](https://mahikamahapatra101.github.io/Digital-Portfolio-v2/)
+Explore the interactive portfolio here: [https://mahikamahapatra101.github.io/Digital-Portfolio-v2](https://mahikamahapatra101.github.io/Digital-Portfolio-v2/)
+
+---
+
+## Featured Interactive Demos
+
+### 1. Red-Black Tree Engine
+An in-browser visualizer for a self-balancing binary search tree supporting O(log n) insertions, rotations, recoloring rules, and type safety.
+* Key Features: Supports string and numeric nodes, dynamic tree rendering, and edge-case handling for leaf nodes (NIL / null).
+
+### 2. Portfolio CLI Shell
+A lightweight, interactive Unix-style terminal emulator built directly into the web page.
+* Key Features: O(1) command lookups, command history buffer navigation (Up/Down arrow keys), quick-key buttons, and custom command execution (about, skills, projects, contact).
+
+---
 
 ## Built With
-* HTML5 - Semantic structure
-* CSS3 - Custom UI styling and flexbox layouts
-* JavaScript - Interactive widgets and custom data structure engines
 
-## Featured Interactive Demo
-* Red-Black Tree Engine: A fully functional, self-balancing Red-Black Tree demo featuring BST insertions, rotations, recoloring rules, and strict generic type safety.
+* HTML5: Semantic layout and structured content.
+* CSS3: Custom UI design, responsive Flexbox/Grid layouts, CSS variables, and keyframe animations.
+* Vanilla JavaScript (ES6+): Event-driven DOM manipulation, state management, algorithmic visualization, and terminal emulation without external frameworks.
+
+---
+
+## Featured Software Projects Highlighted
+
+* runload: Full-stack training dashboard utilizing the Acute:Chronic Workload Ratio (ACWR) to track runner fatigue and injury risk. [Python]
+* stride (CheeseHacks 2026): Campus safety app featuring safety-weighted Dijkstra's routing, graph architecture, and API design. [Python / Backend]
+* Red-Black Tree Leaderboard: Generic Java RBT engine supporting O(log n) insertion, search, and score filtering with JUnit test coverage. [Java]
+* Shortest Path Map Engine: Fast pathfinder using Dijkstra's algorithm on a weighted directed graph. [Java]
+
+---
 
 ## Project Goals
-* Continuously update and refine showcased projects as I learn new technologies.
-* Maintain clean, accessible, and interactive web experiences.
 
-* Please come back:)
+* Continuously refine showcased CS projects and systems work.
+* Demonstrate front-end performance, algorithm design, and developer UI/UX best practices.
+* Maintain clean, accessible, and responsive web experiences across all device sizes.
+
+---
+
+Please come back!!! Feel free to reach out via [Email](mailto:mahika.mahapatra.1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mahika-mahapatra-it/).
