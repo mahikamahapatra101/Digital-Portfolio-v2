@@ -25,7 +25,7 @@ A lightweight, interactive Unix-style terminal emulator built directly into the 
 
 * HTML5: Semantic layout and structured content.
 * CSS3: Custom UI design, responsive Flexbox/Grid layouts, CSS variables, and keyframe animations.
-* Vanilla JavaScript (ES6+): Event-driven DOM manipulation, state management, algorithmic visualization, and terminal emulation without external frameworks.
+* Vanilla JavaScript: Event-driven DOM manipulation, state management, algorithmic visualization, and terminal emulation without external frameworks.
 
 ---
 
