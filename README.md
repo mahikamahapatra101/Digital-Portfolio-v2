@@ -19,6 +19,11 @@ An in-browser visualizer for a self-balancing binary search tree supporting O(lo
 A lightweight, interactive Unix-style terminal emulator built directly into the web page.
 * Key Features: O(1) command lookups, command history buffer navigation (Up/Down arrow keys), quick-key buttons, and custom command execution (about, skills, projects, contact).
 
+### 3. Custom Themes & Multi-Language Support
+An accessible, personalized UI experience tailored for global visitors.
+* **Theme Switcher:** Seamlessly toggle between Default, Dracula, and Sunset themes, plus an optional global Flower Accent toggle (🌸).
+* **Multi-Language Support:** Instant localization for English, Spanish, Odia (ଓଡ଼ିଆ), and Hindi (हिंदी) powered by clean custom glassmorphic navigation pills.
+
 ---
 
 ## Built With
